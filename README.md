@@ -1,5 +1,6 @@
 # Sobre mim
-Jogar
+My name : Felipe
+
 
 ![bitmoji](https://user-images.githubusercontent.com/105867091/169319334-2ec73b97-f009-46a5-b988-cf633b7e3863.png)
 
