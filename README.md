@@ -1,6 +1,6 @@
 # Sobre mim
-# My name : Felipe
-# Meu interesse: Jogos, informatica
+- My name : Felipe
+- Meu interesse: Jogos, informatica
 
 
 ![bitmoji](https://user-images.githubusercontent.com/105867091/169319334-2ec73b97-f009-46a5-b988-cf633b7e3863.png)
